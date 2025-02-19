@@ -50,7 +50,7 @@ def main():
     filtered_df = side_bar_data(df)
 
     # Tabs for different functionality
-    tab1, tab2 = st.tabs(["Know Your Data", "Data Profiling"])
+    tab1, tab2 = st.tabs(["🔍 Data Explorer", "📊 Data DNA"])
 
     with tab1:
         st.header("Know Your Data")
