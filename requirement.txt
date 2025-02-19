@@ -1,0 +1,5 @@
+streamlit_ydata_profiling
+ydata-profiling 
+streamlit 
+pandas
+plotly
